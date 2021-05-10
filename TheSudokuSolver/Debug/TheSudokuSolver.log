@@ -1,0 +1,3 @@
+﻿  TheSudokuSolver.cpp
+C:\Users\Dwayne\source\repos\TheSudokuSolver\TheSudokuSolver.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+  TheSudokuSolver.vcxproj -> C:\Users\Dwayne\source\repos\TheSudokuSolver\Debug\TheSudokuSolver.exe
